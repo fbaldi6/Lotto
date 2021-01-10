@@ -1,5 +1,5 @@
 # Lotto
-Applicazione distribuita client-server che riproduce il gioco del Lotto, sviluppata per l'esame di Reti Informatiche del Corso di Laurea di Ingegneria Informatica dell'Università di Pisa.
+Applicazione distribuita client-server in C che riproduce il gioco del Lotto, sviluppata per l'esame di Reti Informatiche del Corso di Laurea di Ingegneria Informatica dell'Università di Pisa.
 
 ## Implementazione
 Il server consente ai client di fare giocate per la prossima estrazione prevista, visualizzare le ultime giocate e le ultime vincite. Il server è anche in grado di gestire richieste concorrenti. 
